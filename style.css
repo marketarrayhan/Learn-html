@@ -2,3 +2,12 @@ body{
     background-color: #343434;
     color: #ff0090;
 }
+a{
+    color: aliceblue;
+}
+a:visited{
+    color: #dc4f4f;
+}
+a:hover, a:active{
+    color: #eee;
+}
