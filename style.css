@@ -6,8 +6,13 @@ a{
     color: aliceblue;
 }
 a:visited{
-    color: #dc4f4f;
+    color: #d04fdc;
 }
 a:hover, a:active{
     color: #eee;
 }
+
+table tr td{ 
+    border: 1px solid orange;
+}
+  
